@@ -56,4 +56,12 @@ body {
     .box {
         width: 80%;
     }
+
+    .box-center {
+        min-height: 80vh;
+    }
+
+    .attribution {
+        padding: 10px;
+    }
 }
