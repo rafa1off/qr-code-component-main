@@ -1,15 +1,15 @@
 # Frontend Mentor - QR code component
 
-![Solution](./design/solution.jpg)
+![Solution](/design/solution.png)
 
 ## Welcome! 👋
 
-This challenge was designed by Frontend Mentor - [Frontend Mentor Link](https://www.frontendmentor.io).
+This challenge was designed by [Frontend Mentor](https://www.frontendmentor.io).
 
 I created a CSS archive to solve this challenge and built with flexbox with custom properties.
 
-- Repo - [Repository](https://github.com/rafa1off/qr-code-component-main)
-- Live URL - [Live URL](https://rafa1off.github.io/qr-code-component-main/)
+- [Repository](https://github.com/rafa1off/qr-code-component-main)
+- [Live URL](https://rafa1off.github.io/qr-code-component-main/)
 
 ## My links:
 
